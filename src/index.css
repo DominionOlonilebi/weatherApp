@@ -12,7 +12,7 @@
 
 /* background */
 .background {
-  background: linear-gradient(to bottom, #ca1801, #f8a167, #fce6ca);
+  background: linear-gradient(to bottom, #ca3a01, #f8a167, #fce6ca);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -48,12 +48,12 @@
 }
 
 .background .box::-webkit-scrollbar-thumb {
-  background-color: #ca1809;
+  background-color: #ca3a01;
   border-radius: 4px;
 }
 
 .background .box::-webkit-scrollbar-thumb:hover {
-  background-color: #ca1809;
+  background-color: #ca3a01;
 }
 
 .background .box::-webkit-scrollbar-track {
@@ -81,7 +81,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #ca1809;
+  color: #ca3a01;
 }
 
 .box form .city-input {
@@ -99,7 +99,7 @@
   border: none;
   outline: none;
   background-color: #fff;
-  color: #ca1809;
+  color: #ca3a01;
   width: 75px;
   cursor: pointer;
 }
@@ -131,7 +131,7 @@
 .details-box-header .switch {
   width: 80px;
   height: 32px;
-  background-color: #ca1809;
+  background-color: #ca3a01;
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -238,7 +238,7 @@
 
 /* details children */
 .weather-details-container .details .city-name {
-  color: #ca1809;
+  color: #ca3a01;
 }
 
 .weather-details-container .details .icon-and-temp {
@@ -247,7 +247,7 @@
 }
 
 .icon-and-temp h1 {
-  color: #ca1809;
+  color: #ca3a01;
   font-size: 56px;
 }
 
@@ -257,7 +257,7 @@
 
 /* metrices children */
 .weather-details-container .metrices h4 {
-  color: #ca1809;
+  color: #ca3a01;
   margin-left: 4px;
   margin-bottom: 25px;
 }
@@ -279,7 +279,7 @@
 }
 
 .key .value {
-  color: #ca1809;
+  color: #ca3a01;
 }
 
 .key span {
@@ -288,7 +288,7 @@
 }
 
 .value span {
-  color: #ca1809;
+  color: #ca3a01;
 }
 
 /* extended-forecasts */
