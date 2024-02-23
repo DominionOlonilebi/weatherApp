@@ -131,7 +131,7 @@
 .details-box-header .switch {
   width: 80px;
   height: 32px;
-  background-color: #ca3a01;
+  background-color: #f05416;
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -306,7 +306,7 @@
   width: calc(20% - 10px);
   height: 120px;
   border-radius: 4px;
-  background-color: #db2d01;
+  background-color: #f05416;
   color: #fff;
   margin-right: 10px;
   padding: 10px;
